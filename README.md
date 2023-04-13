@@ -2,7 +2,7 @@
 
 I'm Jibran Fawaid 🚀 dedicated **IT engineer** with experience in designing and developing scalable and high-performance applications. With expertise in microservices architecture, RESTful API design, database technologies, and DevOps practices.
 
-![Relaxing Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI1YjkyZDBhYzBlMTUzNTBiYTJmMDJmZjA5NDBmZjFmZjg4YmM1NyZjdD1n/eHQ5BsgBIBIGI/giphy.gif)
+![Relaxing Gif](https://i.imgur.com/ychbtU8.gif)
 
 ## About Me 
 
