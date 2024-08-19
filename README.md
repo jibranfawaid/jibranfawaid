@@ -12,7 +12,7 @@ I'm a highly motivated software engineer who loves solving problems and building
 
 - 🥬 **Backend Development:** I have experience building RESTful APIs with Golang, Python (Django, Flask), Java (Spring), Node JS.
 - 🌽 **Databases:** I have worked with SQL databases such as MySQL, PostgreSQL, and SQLite as well as NoSQL databases such as Elasticsearch and MongoDB.
-- 🥒 **Frontend Development:** I'm proficient in HTML, CSS, and JavaScript and can work with front-end frameworks like React.js or event Laravel.
+- 🥒 **Frontend Development:** I'm proficient in HTML, CSS, and JavaScript and can work with front-end frameworks like Laravel or any other JS based framework.
 - 🍏 **DevOps:** I'm familiar with cloud platforms such as AWS and can deploy applications using Docker and Kubernetes.
 - 🧀 **Scraping Development:** With my experience, I'm able to build a scraper with any type, such as Playwright, Selenium, or API based and even able to bypass several web security
 
